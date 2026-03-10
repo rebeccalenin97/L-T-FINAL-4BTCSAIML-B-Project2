@@ -1,0 +1,13 @@
+export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
+  <meta charset="utf-8">
+  <title>ProductCatalog</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<style>:root{--dark-bg: #1a1a2e;--dark-secondary: #16213e;--deep-purple: #7c3aed;--deep-purple-hover: #6d28d9;--white: #ffffff;--text-light: #f0f0f0;--text-secondary: #b0b0b0;--border-color: #2d3561}body{background-color:var(--dark-bg);color:var(--text-light);font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;margin:0;padding:0;transition:background-color .3s ease}html{scroll-behavior:smooth}h1,h2{color:var(--white)}hr{border:none;border-top:2px solid var(--border-color);margin:20px 0}a{color:var(--deep-purple);text-decoration:none;transition:color .3s ease}a:hover{color:var(--deep-purple-hover)}
+</style><link rel="stylesheet" href="styles-QFPVZ3XF.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-QFPVZ3XF.css"></noscript><style ng-app-id="ng">[_nghost-ng-c3177019257]{display:block;background-color:var(--dark-bg)}h1[_ngcontent-ng-c3177019257]{text-align:center;color:var(--white);font-size:2.5em;margin:30px 0 20px;text-shadow:0 2px 4px rgba(0,0,0,.3)}</style></head>
+<body>
+  <app-root ng-version="21.1.0" _nghost-ng-c3177019257 ng-server-context="ssg"><h1 _ngcontent-ng-c3177019257>Product Catalog</h1><hr _ngcontent-ng-c3177019257><router-outlet _ngcontent-ng-c3177019257></router-outlet><app-shopping-cart><h2>Shopping Cart</h2><table border="1"><tr><th>Product</th><th>Price</th><th>Quantity</th><th>Action</th></tr><!----></table><br><a routerlink="/">⬅ Back to Products</a></app-shopping-cart><!----></app-root>
+<script src="main-7TTMCCQ2.js" type="module"></script>
+
+</body></html>`;

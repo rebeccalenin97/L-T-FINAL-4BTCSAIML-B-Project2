@@ -1,0 +1,14 @@
+export default `<!doctype html>
+<html lang="en" data-beasties-container="">
+<head>
+  <meta charset="utf-8">
+  <title>ProductCatalog</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<style>:root{--dark-bg:#1a1a2e;--dark-secondary:#16213e;--deep-purple:#7c3aed;--deep-purple-hover:#6d28d9;--white:#ffffff;--text-light:#f0f0f0;--text-secondary:#b0b0b0;--border-color:#2d3561}body{background-color:var(--dark-bg);color:var(--text-light);font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;margin:0;padding:0;transition:background-color .3s ease}html{scroll-behavior:smooth}</style><link rel="stylesheet" href="styles-QFPVZ3XF.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-QFPVZ3XF.css"></noscript></head>
+<body ngcm="">
+  <app-root></app-root>
+<script src="main-7TTMCCQ2.js" type="module"></script></body>
+</html>
+`;
